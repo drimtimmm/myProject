@@ -19,3 +19,5 @@ print("Count of numbers of sequence: ", n)
 print("Sum of sequence: ", s)
 print("Minimum number of sequence: ", m)
 print("Mean of numbers of sequence: ", a)
+
+# it looks like I learned how to use git today
